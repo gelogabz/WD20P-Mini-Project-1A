@@ -11,10 +11,12 @@ body {
 }
 
 header {
-    height: 100vh;
-    background: url(../doggoimgs/simple-cute-dog-black-logo-icon-design-vector.jpg);
+    height: 70vh;
+    width: 100%;
+    background: url(../doggoimgs/857805_doghouse_512x512.jpg);
     background-size: 40vh;
-    background-position: bottom 30% center;
+    background-position: bottom 40% center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    filter: contrast(1.2);
 }
